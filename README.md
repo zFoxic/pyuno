@@ -1,2 +1,2 @@
-# pyuno
-My first projects, making an UNO Game in Python.
+# Pyuno
+My first project, making an UNO Game in Python.
